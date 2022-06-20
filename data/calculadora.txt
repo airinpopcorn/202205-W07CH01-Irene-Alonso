@@ -1,2 +1,11 @@
-Estos son los datos de Luisa:
-edad - 25
+DATITOS DE CALCULADORA
+a=6
+b = 3
+
+6 + 3 = sum
+
+6 - 3 = rest
+
+6 \* 3 = multiply
+
+6 / 3 = 2 = divide
